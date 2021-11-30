@@ -1,0 +1,17 @@
+The reason why I am writing this is due to Covid-19 because of this we are all in lockdown meaning we are working or studying from home.  For most of us this means we are using our own WIFI to connect to work systems or school documents instead of the secure network we are all used to having in the office. This means that we are now more open to attacks by common WIFI attacks than ever before.
+
+
+Why this is important 
+
+As during this time of Covid-19 most of us are using remote desktop to access their computer from home. This is an important issue as during this there has been a higher amount of scam based emails targeting people this shows that attackers are already thinking of ways to gain during this time that is hard for most of us.
+ Now the reason why my post is not focused on this is that most people are aware about this. I think that the things I am going to  write about are not as commonly known to people outside of the cyber security circle. I will be talking about war driving and free wifi .
+
+War driving 
+This is a attack technique where the attacker will normally be in a car with a laptop and a small wifi antenna they will drive round areas while they drive round the laptop will be storing the information  that it is getting from the antenna then the laptop will be running a program will be logging the data given to it into a map which will have the address and information needed for the attacker to go back and break into your wifi. The information that is being checked is what router version or brand it is there a password on the wifi and attackers will take what router version it is and try to crack the password by using default passwords that come with the router which anyone can find by doing a google search for the instruction manual of the router which will normally have the password with in it.
+Dangers
+If attackers get onto you home wifi network this is a big issue as once they are on they are able to see everything you are doing or connecting to so if you are doing contracts or deals for you company and these messages or information is meant to be private they will be able to see all of it and make use of it other by attacking the company you work for or selling the data if important on the dark web. The main thing that most people should be worried about is that when they are shopping from home like most of us are (amazon for me a lot) when we put in credit card information the hackers will be able to see this.
+
+Ways to Mitigate
+
+Change your router password to something secure (10 characters upper and lower 1 special case)
+Make sure the WIFI has a secure password too not e.g. Homewifi1
