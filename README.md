@@ -11,7 +11,7 @@ These will be new write up of CTF's i have done these are not all the hardest bo
 
 #### Blog
 
-These are things that are stuff everyone should know about even if not in cyber security.
+These are things that everyone should know about even if not in cyber security.
 
 
 <!---
