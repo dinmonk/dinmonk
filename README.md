@@ -1,10 +1,9 @@
  👋 Hi, I’m @dinmonk
-this github is about my intrested in ctf, cyber secuirty research and thoughts that i think other people should now for secuirty 
+this github is about my intrested in ctf, cyber secuirty research and thoughts that i think other people should now for security 
 
-There is currently 1 repository in this github for Hackthebox-tutorials/ctf 
+There is currently 2 repository in this github for Hackthebox-tutorials/ctf and the other one if for blog posts on cyber security and general security awareness 
 
-I will be adding in the next couple week 1 more For blog posts on cyber secuirty and general security awareness 
-
+I will be adding more blog posts in the next couple week 
 ### Hackthebox-tutorials
 
 
