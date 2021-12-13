@@ -1,19 +1,19 @@
-- 👋 Hi, I’m @dinmonk
+ 👋 Hi, I’m @dinmonk
 this github is about my intrested in ctf, cyber secuirty research and thoughts that i think other people should now for secuirty 
 
-there is 3 folders  in this github one for ctf, research and blog
+There is currently 1 repository in this github for Hackthebox-tutorials/ctf 
 
-CTF
+I will be adding in the next couple week 1 more For blog posts on cyber secuirty and general security awareness 
+
+### Hackthebox-tutorials
+
 
 These will be new write up of CTF's i have done these are not all the hardest box's but hope this helps other people and begginers on these box's
 
-Blog
+#### Blog
 
-these are things that are stuff everyone should know about even if not in cyber secuirty.
+These are things that are stuff everyone should know about even if not in cyber security.
 
-Research
-
-this is some my playing with and other peoples products thoughts on them and how usefull they are this is stuff from lock picking to bash bunny
 
 <!---
 dinmonk/dinmonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
